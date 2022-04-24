@@ -1,11 +1,11 @@
 # An Analysis of Kickstarter Campaigns
 The data from Kickstarter campaigns was analyzed to uncover trends such as timing of campaign, and fuding to determine the optimal parameters to run a campaign that would ultimately be successful.
-##Findings based on timing of campaigns concluded thefollowing:
--Months April - June saw the largest amount of successful campaigns. The successful campaign trend fell noticably after May through June. This was copmplimented a large amount of failed campaigns taking place between July and October. it should be noted that canceled campaigns spiked in July as well.
+## Findings based on timing of campaigns concluded thefollowing:
+- Months April - June saw the largest amount of successful campaigns. The successful campaign trend fell noticably after May through June. This was copmplimented a large amount of failed campaigns taking place between July and October. it should be noted that canceled campaigns spiked in July as well.
 ![Outcomes based on Launch Date](https://user-images.githubusercontent.com/102814578/165001658-4bf719d7-2390-4bfd-a5e5-d7bc9b2696c4.png)
 
 ## Findings of Kickstarter categories is as follows:
--Theater and Musical categories saw the most success in the data set. There were substantialy more successfull campaigns in these categories than the rest of the categories analyzed. They also had a higher ratio of successful to failed campaigns compared to the other categories (it is worth mentioning that film and video saw a similar ration, with a smaller number of successful campaigns over all).
+- Theater and Musical categories saw the most success in the data set. There were substantialy more successfull campaigns in these categories than the rest of the categories analyzed. They also had a higher ratio of successful to failed campaigns compared to the other categories (it is worth mentioning that film and video saw a similar ration, with a smaller number of successful campaigns over all).
 ![Parent Category Statistics](https://user-images.githubusercontent.com/102814578/165001644-c33fcf32-8e80-4e22-81b7-2b046e81a995.png)
 
 ## Funding Statistics are as follows:
