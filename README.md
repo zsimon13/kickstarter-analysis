@@ -1,6 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 The data from Kickstarter campaigns was analyzed to uncover trends such as timing of campaign, and fuding to determine the optimal parameters to run a campaign that would ultimately be successful.
-## Findings based on timing of campaigns concluded thefollowing:
+
+## Findings of Kickstarters success bsaed on time:
 - Months April - June saw the largest amount of successful campaigns. The successful campaign trend fell noticably after May through June. This was copmplimented a large amount of failed campaigns taking place between July and October. it should be noted that canceled campaigns spiked in July as well.
 ![Outcomes based on Launch Date](https://user-images.githubusercontent.com/102814578/165001658-4bf719d7-2390-4bfd-a5e5-d7bc9b2696c4.png)
 
