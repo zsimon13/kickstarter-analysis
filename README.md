@@ -17,7 +17,9 @@ Campaigns for Plays whose goals were under $1,000 had the highest success rate o
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/102814578/165010380-52917fa3-89ef-44c6-98b3-98d6ca60d0ec.png)
 
 ## Challenges
-
+The mopst significant challenge was determining which sets of data influence the success of a campaign. There are plenty of trends to analyze and determinging which one would be the most general and apply to all campaigns, yet specific enough to show a strong correlation of campaign success. These challenges were overcome by selecting timing and fundraising goals. These were general enough to apply to all campaigns and determine potential quality of the experinece of the cammpaign. Essentially the weather when the campaigns would take place, and the funding available for the campaign. 
 
 ## Results
-It seems campaigns with lower budgets were easier to launch successfully and progressivley went down as goals went up. The spike at the upper end may signal more funding for higher end productions. 
+- The Spring/ Summer time showed the highest successful theater campaigns. This is likely due to the weather when people are willing to go out to theaters. Spring Break adn Summer vacation couild also be an influencial factor since kids will be out of school.  
+- It seems campaigns with lower budgets were easier to launch successfully. Success of campaigns progressivley went down as goals went up. The spike at the upper end may signal more funding for higher end productions.
+- This dataset only shows the relation of Play's outcomes based on launch date, and fundrtaising goals of all tyoes of campaigns. A line chart of fundraising goals of only plays would be more representative, or a line chart of launch date of all campaign types would also paiunt a more clear picture. A line chart showing successful campaigns (filterable by caampaign type) vs the amount of backers would also be useful to show the interest levels the communities had in those campaigns.
