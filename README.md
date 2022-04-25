@@ -12,7 +12,7 @@ Campaigns launches starting in between March and April and maintained high succe
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/102814578/165010391-901b7ce6-f4de-40eb-be12-5e829e89123a.png)
 
-### Play Outcomes Based on Fudnraising Goals
+### Outcomes Based on Fudnraising Goals
 Campaigns for Plays whose goals were under $1,000 had the highest success rate of nearly 80%. As fundraising goals went up, success rates fell bottoming out at 20% success when goals were between $25,000 and $30,000. Success rates did go up from there and plateau fromk $35,00 to $45,000 and then declined to sub 20% from there on. 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/102814578/165010380-52917fa3-89ef-44c6-98b3-98d6ca60d0ec.png)
 
