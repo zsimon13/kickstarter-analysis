@@ -4,7 +4,7 @@
 In this project, data was analyzed from 'Kickstarter Campaigns' to find trends in the time a campaign was launched, and the funding goals of the campaign, to help a  client best determine a pathway to a successful campaign.
 
 ### Purpoose
-The main purpose was to identify trends in the date a campaign was launched, and the fundraising goals to see waht influence they may have had on a campaign being successful or failing to complete.
+The main purpose was to identify trends in the date a campaign was launched, and the fundraising goals, to see waht influence they may have had on a campaign being successful or failing to complete.
 
 ## Analysis
 ### Theater Outcomes Based on Luanch Date
