@@ -17,7 +17,7 @@ Campaigns for Plays whose goals were under $1,000 had the highest success rate o
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/102814578/165010380-52917fa3-89ef-44c6-98b3-98d6ca60d0ec.png)
 
 ## Challenges
-The most significant challenge was determining which sets of data influence the success of a campaign. There were plenty of trends to analyze, and determinging which one would be the most general and apply to all campaigns, yet specific enough to show a strong correlation of campaign success was not very clear. These challenges were overcome by selecting timing of campaign launch and fundraising goals. The amount of money raised can be an indicator of production quality of the campaign, and the time of year the campaign was launched is general enough to have influence amoung all campaign types.
+The most significant challenge was determining which sets of data influence the success of a campaign. There were plenty of trends to analyze, and determinging which one would be the most general and apply to all campaigns, yet specific enough to show a strong correlation of campaign success was not very clear. These challenges were overcome by selecting timing of campaign launch and fundraising goals. The amount of money raised can be an indicator of production quality of the campaign, and the time of year the campaign was launched is general enough to have influence among all campaign types.
 
 ## Results
 - The Spring/ Summer time showed the highest successful theater campaigns. This is likely due to the weather when people are willing to go out to theaters. Spring Break ann Summer vacation couild also be a key factor since kids will be out of school.  
